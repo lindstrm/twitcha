@@ -8,7 +8,7 @@ An app for following/viewing Twitch streams.
 <img src="http://i.imgur.com/7skiz8w.png">
 
 ## How to use
-1. Download
+1. Download ([here](releases))
 2. Unzip
 3. Launch
 4. Win
