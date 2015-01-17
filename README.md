@@ -7,7 +7,7 @@ An app for following/viewing Twitch streams.
 3. Launch
 4. Win
  
-* Where you have write access without admin.
+\* Where you have write access without admin.
 
 ## Features
 * Follow streams
