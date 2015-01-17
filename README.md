@@ -2,7 +2,7 @@
 An app for following/viewing Twitch streams.
 
 ## How to use
-1. Download ([here](https://github.com/lindstrm/Twitcher/releases))
+1. Download ([here](https://github.com/lindstrm/Twitcher/releases/latest))
 2. Unzip*
 3. Launch
 4. Win
