@@ -1,6 +1,4 @@
 # Twitcher
-======
-
 An app for following/viewing Twitch streams.
 
 ## The program
