@@ -21,6 +21,6 @@ An app for following/viewing Twitch streams.
 
 ## The program
 
-<img src="http://i.imgur.com/Sk9oklC.png">
-<img src="http://i.imgur.com/TGvAs9p.png">
-<img src="http://i.imgur.com/7skiz8w.png">
+<img src="http://i.imgur.com/05ufq65.png">
+<img src="http://i.imgur.com/NpsiBf3.png">
+<img src="http://i.imgur.com/Q4a0wvh.png">
