@@ -13,6 +13,7 @@ An app for following/viewing Twitch streams.
 * Follow games
 * In-app chat
 * Launch streams with Livestreamer
+* Systemtray notifications
 
 ## Requirements
 * Windows Vista or higher
