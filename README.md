@@ -1,4 +1,4 @@
-# Twitcher
+# Twitcha
 An app for following/viewing Twitch streams.
 
 ## How to use
