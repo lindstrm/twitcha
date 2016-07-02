@@ -2,26 +2,26 @@
 An app for following/viewing Twitch streams.
 
 ## How to use
-1. Download ([here](https://github.com/lindstrm/Twitcher/releases/latest))
-2. Unzip*/Install
+1. Download ([here](https://github.com/lindstrm/twitcha/releases/latest))
+2. Install
 3. Launch
 4. Win
  
-\* To a folder Where you have write access without admin.
-
 ## Features
 * Follow streams
 * Follow games
 * In-app chat
-* Launch streams with Livestreamer
+* Launch streams with VLC/Other player using Livestreamer
 * Systemtray notifications
+* History of what you've been watching and for how long
+* And more
 
 ## Requirements
-* Windows Vista or higher
-* .NET Framework 4.5
+* Windows 7 or higher
 
 ## The program
 
-<img src="http://i.imgur.com/ozKu2pW.png">
-<img src="http://i.imgur.com/Iwg6k7e.png">
-<img src="http://i.imgur.com/qUQ3ByS.png">
+<img src="https://i.imgur.com/y0qPtDj.png">
+<img src="https://i.imgur.com/pt5yrpB.png">
+<img src="https://i.imgur.com/SjeGo51.png">
+<img src="https://i.imgur.com/0KXeScA.png">
